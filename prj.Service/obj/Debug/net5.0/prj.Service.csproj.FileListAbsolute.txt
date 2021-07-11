@@ -1,0 +1,17 @@
+E:\Learn\dot net core\JohnnySins\Solution1\prj.Service\bin\Debug\net5.0\prj.Service.deps.json
+E:\Learn\dot net core\JohnnySins\Solution1\prj.Service\bin\Debug\net5.0\prj.Service.dll
+E:\Learn\dot net core\JohnnySins\Solution1\prj.Service\bin\Debug\net5.0\ref\prj.Service.dll
+E:\Learn\dot net core\JohnnySins\Solution1\prj.Service\bin\Debug\net5.0\prj.Service.pdb
+E:\Learn\dot net core\JohnnySins\Solution1\prj.Service\obj\Debug\net5.0\prj.Service.csprojAssemblyReference.cache
+E:\Learn\dot net core\JohnnySins\Solution1\prj.Service\obj\Debug\net5.0\prj.Service.GeneratedMSBuildEditorConfig.editorconfig
+E:\Learn\dot net core\JohnnySins\Solution1\prj.Service\obj\Debug\net5.0\prj.Service.AssemblyInfoInputs.cache
+E:\Learn\dot net core\JohnnySins\Solution1\prj.Service\obj\Debug\net5.0\prj.Service.AssemblyInfo.cs
+E:\Learn\dot net core\JohnnySins\Solution1\prj.Service\obj\Debug\net5.0\prj.Service.csproj.CoreCompileInputs.cache
+E:\Learn\dot net core\JohnnySins\Solution1\prj.Service\obj\Debug\net5.0\prj.Service.dll
+E:\Learn\dot net core\JohnnySins\Solution1\prj.Service\obj\Debug\net5.0\ref\prj.Service.dll
+E:\Learn\dot net core\JohnnySins\Solution1\prj.Service\obj\Debug\net5.0\prj.Service.pdb
+E:\Learn\dot net core\JohnnySins\Solution1\prj.Service\bin\Debug\net5.0\prj.Data.dll
+E:\Learn\dot net core\JohnnySins\Solution1\prj.Service\bin\Debug\net5.0\prj.Data.pdb
+E:\Learn\dot net core\JohnnySins\Solution1\prj.Service\obj\Debug\net5.0\prj.Service.csproj.CopyComplete
+E:\Learn\dot net core\JohnnySins\Solution1\prj.Service\bin\Debug\net5.0\prj.Helper.dll
+E:\Learn\dot net core\JohnnySins\Solution1\prj.Service\bin\Debug\net5.0\prj.Helper.pdb

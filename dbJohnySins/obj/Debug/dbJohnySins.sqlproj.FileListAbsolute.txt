@@ -1,0 +1,9 @@
+E:\Learn\dot net core\JohnnySins\Solution1\dbJohnySins\bin\Debug\dbJohnySins.dacpac
+E:\Learn\dot net core\JohnnySins\Solution1\dbJohnySins\bin\Debug\dbJohnySins.dll
+E:\Learn\dot net core\JohnnySins\Solution1\dbJohnySins\bin\Debug\dbJohnySins.pdb
+E:\Learn\dot net core\JohnnySins\Solution1\dbJohnySins\obj\Debug\dbJohnySins.dll
+E:\Learn\dot net core\JohnnySins\Solution1\dbJohnySins\obj\Debug\dbJohnySins.pdb
+E:\Learn\dot net core\JohnnySins\Solution1\dbJohnySins\obj\Debug\Model.xml
+E:\Learn\dot net core\JohnnySins\Solution1\dbJohnySins\obj\Debug\refactor.xml
+E:\Learn\dot net core\JohnnySins\Solution1\dbJohnySins\obj\Debug\postdeploy.sql
+E:\Learn\dot net core\JohnnySins\Solution1\dbJohnySins\obj\Debug\predeploy.sql

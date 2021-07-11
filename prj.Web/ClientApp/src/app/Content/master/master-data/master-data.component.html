@@ -1,0 +1,24 @@
+
+
+<p *ngIf="!objMasterDataModel"><em>Loading...</em></p>
+
+<table class='table table-striped' aria-labelledby="tableLabel" *ngIf="objMasterDataModel">
+  <thead>
+    <tr>
+      <th>Id</th>
+      <th>Name</th>
+      <th>Is Active</th>
+      <th>Is Delete</th>
+      <th>Summary</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr *ngFor="let forecast of objMasterDataModel">
+      <td>{{ forecast.Id }}</td>
+      <td>{{ forecast.Name }}</td>
+      <td>{{ forecast.IsActive }}</td>
+      <td>{{ forecast.IsDelete }}</td>
+      <td>{{ forecast.Description }}</td>
+    </tr>
+  </tbody>
+</table>

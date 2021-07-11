@@ -1,0 +1,10 @@
+dotnet ef dbcontext scaffold ";Database=dbJohnySins;User Id=sa;Password=sql@2017;Trusted_Connection=True;" Microsoft.EntityFrameworkCore.SqlServer --output-dir Models
+
+Scaffold-DbContext "Server=Server=SANDEEP-SUTHAR\SQLEXPRESS2017;Initial Catalog=dbJohnySins;MultipleActiveResultSets=true;User ID=sa;Password=sql@1014;" Microsoft.EntityFrameworkCore.SqlServer --output-dir Models
+
+
+dotnet ef dbcontext scaffold "Server=Server=SANDEEP-SUTHAR\SQLEXPRESS2017;Initial Catalog=dbJohnySins;MultipleActiveResultSets=true;User ID=sa;Password=sql@2017;" Microsoft.EntityFrameworkCore.SqlServer --output-dir Models
+
+
+
+
